@@ -1,9 +1,9 @@
-##Fresh Cart - Angular E-commerce Project
+## Fresh Cart - Angular E-commerce Project
 Fresh Cart
 
 Welcome to the Fresh Cart repository! Fresh Cart is a powerful E-commerce platform built with Angular, designed to help you to online shopping
 
-*Features*
+## Features
 
 Product Catalog: Explore a diverse range of products complete with detailed descriptions, images, and pricing.
 
